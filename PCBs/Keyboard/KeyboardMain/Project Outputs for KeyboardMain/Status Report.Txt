@@ -1,0 +1,33 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [KeyboardMain.PrjPcb]
+   Generated File[KeyboardMain_Copper_Signal_Top.gbr]
+   Generated File[KeyboardMain_Copper_Signal_Bot.gbr]
+   Generated File[KeyboardMain_Pads_Bot.gbr]
+   Generated File[KeyboardMain_Pads_Top.gbr]
+   Generated File[KeyboardMain_Legend_Bot.gbr]
+   Generated File[KeyboardMain_Soldermask_Bot.gbr]
+   Generated File[KeyboardMain_Paste_Bot.gbr]
+   Generated File[KeyboardMain_Legend_Top.gbr]
+   Generated File[KeyboardMain_Paste_Top.gbr]
+   Generated File[KeyboardMain_Soldermask_Top.gbr]
+   Generated File[KeyboardMain_Keep-out.gbr]
+   Generated File[KeyboardMain_Mechanical_13.gbr]
+   Generated File[KeyboardMain_Mechanical_14.gbr]
+   Generated File[KeyboardMain_Mechanical_8.gbr]
+   Generated File[KeyboardMain_Mechanical_1.gbr]
+   Generated File[KeyboardMain_Mechanical_15.gbr]
+   Generated File[KeyboardMain_Profile.gbr]
+   Generated File[KeyboardMain_NPTH_Drill.gbr]
+   Generated File[KeyboardMain_PTH_Drill.gbr]
+   Generated File[KeyboardMain_Drawing_1.gbr]
+   Generated File[KeyboardMain_Drillmap_1.gbr]
+   Generated File[KeyboardMain.RUL]
+   Generated File[KeyboardMain.EXTREP]
+   Generated File[KeyboardMain.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 10:38:17 PM On 7/3/2021

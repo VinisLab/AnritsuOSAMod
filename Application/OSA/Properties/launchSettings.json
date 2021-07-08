@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OSA": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "remoteDebugMachine": "192.168.2.193:4024",
+      "authenticationMode": "Windows"
+    }
+  }
+}

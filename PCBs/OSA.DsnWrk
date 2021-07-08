@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Keyboard\KeyboardMain\KeyboardMain.PrjPcb
+[Project2]
+ProjectPath=PhotodiodePreamp\Preamp\Preamp.PrjPcb
+[Project3]
+ProjectPath=ADC\ADC.PrjPcb

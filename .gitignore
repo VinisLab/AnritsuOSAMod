@@ -1,0 +1,9 @@
+
+*.dll
+*.so
+*.v2
+*.pdb
+*.cache
+*.SchDocPreview
+*.Zip
+*.LOG
